@@ -20,7 +20,7 @@ checkerframework = "3.29.0"
 junit-jupiter = "5.9.2"
 junit-platform = "1.9.2"
 assertj = "3.24.1"
-mockito = "4.11.0"
+mockito = "5.15.2"
 cucumber = "7.8.1"
 
 event-api = "3.0.0"
